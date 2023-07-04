@@ -9,7 +9,7 @@ function App() {
     <>
       <div id="header">
             <div class="container">
-                <a id="nav-brand" href=""><img src="/src/assets/image/logo.png" alt=""/></a>
+                <a id="nav-brand" href=""><img src="assets/image/logo.png" alt=""/></a>
                 <ul id="nav">
                     <li class="dropdown">
                         <a href="">HOME</a>
@@ -87,7 +87,7 @@ function App() {
                         <a class="contact-btn" href="">Contact Us</a>
                 </div>
                 <div class="banner-image">
-                    <img src="/src/assets/image/wow-girl.png" alt=""/>
+                    <img src="assets/image/wow-girl.png" alt=""/>
                 </div>
             </div>
         </div>
@@ -117,7 +117,7 @@ function App() {
         <div id="about">
             <div class="container">
                 <div class="about-image">
-                    <img src="/src/assets/image/about.jpg" alt=""/>
+                    <img src="assets/image/about.jpg" alt=""/>
                 </div>
                 <div class="about-content">
                     <span>ABOUT US</span>
@@ -138,16 +138,16 @@ function App() {
                 </div>
                 <div class="projects-image">
                     <div class="img-container">
-                        <img src="/src/assets/image/item-1.jpg" alt="" class="img-1"/>
-                        <img src="/src/assets/image/item-4.jpg" alt="" class="img-4"/>
+                        <img src="assets/image/item-1.jpg" alt="" class="img-1"/>
+                        <img src="assets/image/item-4.jpg" alt="" class="img-4"/>
                     </div>
                     <div class="img-container">
-                        <img src="/src/assets/image/item-6.jpg" alt="" class="img-6"/>
-                        <img src="/src/assets/image/item-2.jpg" alt="" class="img-2"/>
+                        <img src="assets/image/item-6.jpg" alt="" class="img-6"/>
+                        <img src="assets/image/item-2.jpg" alt="" class="img-2"/>
                     </div>
                     <div class="img-container">
-                        <img src="/src/assets/image/item-3.jpg" alt="" class="img-3"/>
-                        <img src="/src/assets/image/item-5.jpg" alt="" class="img-5"/>
+                        <img src="assets/image/item-3.jpg" alt="" class="img-3"/>
+                        <img src="assets/image/item-5.jpg" alt="" class="img-5"/>
                     </div>   
                 </div>
             </div>
@@ -219,8 +219,8 @@ function App() {
                 </div>
                 
                 <div class="skill-image">
-                    <img src="/src/assets/image/pattern-skill.jpg" alt=""/>
-                    <img class="img-abs" src="/src/assets/image/skill.jpg" alt=""/>
+                    <img src="assets/image/pattern-skill.jpg" alt=""/>
+                    <img class="img-abs" src="assets/image/skill.jpg" alt=""/>
                 </div>
             </div>
         </div>
@@ -233,21 +233,21 @@ function App() {
                 </div>
                 <div class="client-list">
                     <div class="client-item">
-                        <img src="/src/assets/image/test-1.jpg" alt=""/>
+                        <img src="assets/image/test-1.jpg" alt=""/>
                         <p>Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim
                             veniam.</p>
                         <h5>Liam Hughes</h5>
                         <span>Manager</span>
                     </div>
                     <div class="client-item">
-                        <img src="/src/assets/image/test-2.jpg" alt=""/>
+                        <img src="assets/image/test-2.jpg" alt=""/>
                         <p>Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim
                             veniam.</p>
                         <h5>Liam Hughes</h5>
                         <span>Manager</span>
                     </div>
                     <div class="client-item">
-                        <img src="/src/assets/image/test-3.jpg" alt=""/>
+                        <img src="assets/image/test-3.jpg" alt=""/>
                         <p>Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim
                             veniam.</p>
                         <h5>Liam Hughes</h5>
@@ -259,20 +259,20 @@ function App() {
         {/* <!-- SPONSOR --> */}
         <div id="sponsor">
             <div class="container">
-                <img src="/src/assets/image/client-1.png" alt=""/>
-                <img src="/src/assets/image/client-2.png" alt=""/>
-                <img src="/src/assets/image/client-3.png" alt=""/>
-                <img src="/src/assets/image/client-4.png" alt=""/>
-                <img src="/src/assets/image/client-5.png" alt=""/>
+                <img src="assets/image/client-1.png" alt=""/>
+                <img src="assets/image/client-2.png" alt=""/>
+                <img src="assets/image/client-3.png" alt=""/>
+                <img src="assets/image/client-4.png" alt=""/>
+                <img src="assets/image/client-5.png" alt=""/>
             </div>
         </div>
         {/* <!-- TEAM --> */}
         <div id="team">
             <div class="container">
-                <img src="/src/assets/image/team-1.jpg" alt=""/>
-                <img src="/src/assets/image/team-2.jpg" alt=""/>
-                <img src="/src/assets/image/team-3.jpg" alt=""/>
-                <img src="/src/assets/image/team-4.jpg" alt=""/>
+                <img src="assets/image/team-1.jpg" alt=""/>
+                <img src="assets/image/team-2.jpg" alt=""/>
+                <img src="assets/image/team-3.jpg" alt=""/>
+                <img src="assets/image/team-4.jpg" alt=""/>
             </div>
         </div>
         {/* <!-- LATEST ARTICLE --> */}
@@ -285,7 +285,7 @@ function App() {
                 <div class="article-list">
                     <div class="article-item">
                         <div class="article-img">
-                            <img src="/src/assets/image/blog-1.jpg" alt=""/>
+                            <img src="assets/image/blog-1.jpg" alt=""/>
                             <a href="" class="article-category">Article</a>
                         </div>
                         <a href="">
@@ -301,7 +301,7 @@ function App() {
                     </div>
                     <div class="article-item">
                         <div class="article-img">
-                            <img src="/src/assets/image/blog-2.jpg" alt=""/>
+                            <img src="assets/image/blog-2.jpg" alt=""/>
                             <a href="" class="article-category">Lifestyle</a>
                         </div>
                         <a href="">
@@ -317,7 +317,7 @@ function App() {
                     </div>
                     <div class="article-item">
                         <div class="article-img">
-                            <img src="/src/assets/image/blog-3.jpg" alt=""/>
+                            <img src="assets/image/blog-3.jpg" alt=""/>
                             <a href="" class="article-category">Creative</a>
                         </div>
                         <a href="">
@@ -430,7 +430,7 @@ function App() {
                 <div class="footer-data">
                     <div class="row">
                         <p>dizer. © 2018 All Right Reserved</p>
-                        <img src="/src/assets/image/logo.png" alt=""/>
+                        <img src="assets/image/logo.png" alt=""/>
                         <div class="term-policy">
                             <a href="">Terms of Service</a>
                             <span> | </span>
