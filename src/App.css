@@ -108,7 +108,7 @@ html {
 #banner {
   display: block; 
   position: relative;
-  background: url(src/assets/image/banner.jpg) center center no-repeat;
+  background: url(assets/image/banner.jpg) center center no-repeat;
   overflow: hidden;
   background-size: cover;
 }
